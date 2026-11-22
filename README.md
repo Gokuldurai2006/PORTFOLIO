@@ -1,6 +1,6 @@
 # Gokul Durai — Personal Portfolio
 
-A responsive, light-theme portfolio website built with HTML, CSS and vanilla JavaScript.
+A responsive, light-theme portfolio website built with HTML, CSS and  JavaScript.
 
 ## Files
 - `index.html` — page content and sections
